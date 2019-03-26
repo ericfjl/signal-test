@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "/home/wire/signal/linux-sgx/linux/installer/bin/sgxsdk/include/sgx_capable.h"
+#include "sgx_capable.h"
 
 using namespace std;
 
